@@ -1,4 +1,4 @@
-# React / YouTube API를 이용한 간단한 화면
+# React practice using YouTube API
 
 ###Getting Started###
 
